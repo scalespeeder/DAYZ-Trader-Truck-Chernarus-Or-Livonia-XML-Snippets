@@ -1,0 +1,321 @@
+
+			"PlateCarrierVest" 
+	
+		
+			"PlateCarrierVest" 
+	
+		
+			"NVGoggles" 
+	
+		
+			"NVGoggles" 
+	
+		
+			"NVGHeadstrap" 
+	
+		
+			"NVGHeadstrap" 
+	
+		
+			"ASVAL" 
+	
+		
+			"ACOGOptic" 
+	
+		
+			"Mag_VAL_20Rnd" 
+	
+		
+			"Mag_VAL_20Rnd" 
+	
+		
+			"SVD" 
+	
+		
+			"PSO11Optic" 
+	
+		
+			"Mag_SVD_10Rnd" 
+	
+		
+			"Mag_SVD_10Rnd" 
+	
+		
+			"Deagle" 
+	
+		
+			"Mag_Deagle_9rnd" 
+	
+		
+			"Mag_Deagle_9rnd" 
+	
+		
+			"PistolSuppressor" 
+	
+		
+			"M4A1" 
+	
+		
+			"M4_OEBttstck" 
+	
+		
+			"M4_PlasticHndgrd" 
+	
+		
+			"ACOGOptic" 
+	
+		
+			"Mag_STANAG_30Rnd" 
+	
+		
+			"Mag_STANAG_30Rnd" 
+	
+		
+			"FAL" 
+	
+		
+			"Fal_FoldingBttstck" 
+	
+		
+			"ACOGOptic" 
+	
+		
+			"Mag_FAL_20Rnd" 
+	
+		
+			"Mag_FAL_20Rnd" 
+	
+		
+			"AK_Suppressor" 
+	
+		
+			"AK_Suppressor" 
+	
+		
+			"AK_Suppressor" 
+	
+		
+			"AK_Suppressor" 
+	
+		
+			"M4_Suppressor" 
+	
+		
+			"M4_Suppressor" 
+	
+		
+			"M4_Suppressor" 
+	
+		
+			"M4_Suppressor" 
+	
+		
+			"LandMineTrap" 
+	
+		
+			"LandMineTrap" 
+	
+		
+			"M67Grenade" 
+	
+		
+			"M67Grenade" 
+	
+		
+			"TetracyclineAntibiotics" 
+	
+		
+			"TetracyclineAntibiotics" 
+	
+		
+			"PurificationTablets" 
+	
+		
+			"PurificationTablets" 
+	
+		
+			"CharcoalTablets" 
+	
+		
+			"CharcoalTablets" 
+	
+		
+			"PainkillerTablets" 
+	
+		
+			"PainkillerTablets" 
+	
+		
+			"Morphine" 
+	
+		
+			"Morphine" 
+	
+			
+			"Epinephrine" 
+	
+		
+			"Epinephrine" 
+	
+		
+			"NailBox" 
+	
+		
+			"NailBox" 
+	
+		
+			"NailBox" 
+	
+		
+			"NailBox" 
+	
+		
+			"NailBox" 
+	
+		
+			"NailBox" 
+	
+		
+			"Hammer" 
+	
+		
+			"Shovel" 
+	
+		
+			"Pliers" 
+	
+		
+			"MetalWire" 
+	
+		
+			"Rope" 
+	
+		
+			"Rope" 
+	
+		
+			"DuctTape" 
+	
+		
+			"DuctTape" 
+	
+		
+			"Whetstone" 
+	
+		
+			"Whetstone" 
+	
+		
+			"CombinationLock4" 
+	
+		
+			"CombinationLock4" 
+	
+		
+			"WorkingGloves_Black" 
+	
+		
+			"HandSaw" 
+	
+		
+			"WoodAxe" 
+	
+		
+			"Pickaxe" 
+	
+		
+			"Hatchet" 
+	
+		
+			"LargeTent" 
+	
+		
+			"HuntingKnife" 
+	
+		
+			"SledgeHammer" 
+	
+		
+			"EasterEgg" 
+	
+		
+			"TacticalBaconCan" 
+	
+		
+			"TacticalBaconCan" 
+	
+		
+			"SodaCan_Kvass" 
+	
+		
+			"SodaCan_Kvass" 
+	
+		
+			"Battery9V" 
+	
+		
+			"Battery9V" 
+	
+		
+			"TireRepairKit" 
+	
+		
+			"LugWrench" 
+	
+		
+			"EpoxyPutty" 
+	
+		
+			"AmmoBox_308WinTracer_20Rnd" 
+	
+		
+			"AmmoBox_308WinTracer_20Rnd" 
+	
+			
+			"AmmoBox_357_20Rnd" 
+	
+		
+			"AmmoBox_357_20Rnd" 
+	
+		
+			"AmmoBox_545x39Tracer_20Rnd" 
+	
+		
+			"AmmoBox_545x39Tracer_20Rnd" 
+	
+		
+			"AmmoBox_556x45Tracer_20Rnd" 
+	
+		
+			"AmmoBox_556x45Tracer_20Rnd" 
+	
+			
+			"AmmoBox_762x39Tracer_20Rnd" 
+	
+		
+			"AmmoBox_762x39Tracer_20Rnd" 
+	
+		
+			"AmmoBox_9x39_20Rnd" 
+	
+		
+			"AmmoBox_9x39_20Rnd" 
+	
+		
+			"Mag_AKM_Drum75Rnd" 
+	
+		
+			"Mag_AKM_Drum75Rnd" 
+	
+		
+			"Mag_Saiga_Drum20Rnd" 
+	
+		
+			"Mag_Saiga_Drum20Rnd" 
+	
+		
+			"WeaponCleaningKit" 
+	
+		
+			"WeaponCleaningKit" 
+	
